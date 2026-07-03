@@ -1,0 +1,86 @@
+Python Topics Covered Today
+
+1. Variables
+- Creating variables
+- Storing values
+- Printing variables
+
+2. User Input
+- input()
+- int(input())
+- Taking numbers and strings from the user
+
+3. Data Types
+- int
+- float
+- str
+- bool
+- type()
+- Type conversion (int(), float(), bool())
+
+4. Operators
+- Arithmetic: +, -, *, /, %
+- Comparison: >, <, >=, <=, ==, !=
+
+5. If-Else Statements
+- if
+- elif
+- else
+- Even/Odd
+- Positive/Negative/Zero
+- Greater number
+- Age check
+- Grade system
+
+6. For Loop
+- range()
+- Printing numbers
+- Reverse loop
+- Even numbers
+- Multiplication table
+- Sum of numbers
+- break
+- continue
+
+7. While Loop
+- Basic syntax
+- Counter variable
+- Incrementing the counter
+
+8. Nested Loops
+- Basic number patterns
+- Understanding outer and inner loops
+
+9. Exception Handling (Introduction)
+- try
+- except
+- Handling common errors
+
+10. File Handling (Introduction)
+- open()
+- read()
+- write()
+- append()
+- close()
+- with open()
+
+11. Logic Building Problems
+- ATM withdrawal
+- Login system
+- Traffic light
+- Electricity bill
+- Discount calculator
+- Largest of 3 numbers
+- Leap year
+- Simple calculator
+
+Practice Done
+✓ Variables
+✓ Input
+✓ Data Types
+✓ Operators
+✓ If-Else
+✓ For Loops
+✓ While Loops
+✓ Basic Patterns
+✓ Mixed Logic Questions
