@@ -1,5 +1,12 @@
-word=input("Enter a word:")
-print("vowels are:")
-for letter in word.lower():
-    if letter in "aeiou":
-        print(letter)
+def my_decorator(func):
+    def wrapper():
+        print("Before function runs")
+        func()
+        print("After function runs")
+    return wrapper
+
+@my_decorator
+def say_hello():
+    print("Hello!")
+
+say_hello()
